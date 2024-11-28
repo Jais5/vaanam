@@ -1,1 +1,1 @@
-print("bhoomi"):
+print("bhoomi")
